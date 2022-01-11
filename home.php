@@ -7,6 +7,8 @@
     <title>Home</title>
 </head>
 <body>
-  <h1> BIENVENIDOS A TODOS :D</h1>  
+  <h1> BIENVENIDOS A TODOS :D</h1>
+  <h2> espero esten bien uwu</h2>
+
 </body>
 </html>
