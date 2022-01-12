@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=M, initial-scale=1.0">
+    <title>Formulario estudiante</title>
+</head>
+<body>
+    <section id="Datos generales">
+
+    <img src="../assets/img/logoparroquia.jpg" alt="Proyecto prosecar Logo" id="logo">
+     <hr>
+     <form action="submission.html" method="POST">
+       <h1>Formulario del Estudiante</h1>
+       <h3>datos generales</h3>
+       <section class="generales">
+         <label for="nombre">Nombre</label>
+         <input type="text" name="Id_persona" id="Id_persona" placeholder="nombre">
+       </section>
+      <hr>
+
+       <section class="generales">
+         <label for="identificacion">DNI</label>
+         <input type="text" name="num_dni" id="num_dni" placeholder="identidad">    
+       </section>
+      <hr>
+
+      <section class="generales">
+         <label for="edad">edad</label>
+         <input type="text" name="edad" id="edad" placeholder="edad">
+      </section>
+      <hr>
+
+      <h3> Datos escolares</h3>
+
+      <section>
+          <label for="grado">Grado actual</label>
+          <input type="range" name="grado" id="grado" value="1" min="1" max="10"placeholder="grado actual">
+          <span>Well-Done</span>
+      </section>
+      
+      <hr>
+      <section class="generales">
+         <span>Area que gustaria integrar</span>
+          <br>
+          <input type="checkbox" name="Areas" id="academica" value="academica">
+          <label for="academica">Academica</label>
+          <input type="checkbox" name="Areas" id="psicologica" value="psicologica">
+          <label for="psicologica">Psicologica</label>
+          <input type="checkbox" name="Areas" id="Medica" value="medica">
+          <label for="medica">Medica</label>
+      </section>
+
+
+
+
+
+
+
+
+
+     </form>
+
+
+
+
+   
+
+
+
+
+    </section>
+</body>
+</html>
