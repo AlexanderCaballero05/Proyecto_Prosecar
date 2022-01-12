@@ -9,6 +9,7 @@
 <body>
   <h1> BIENVENIDOS A TODOS :D</h1>
   <h2> espero esten bien uwu</h2>
+  <h2> sino ni modo xd</h2>
 
 </body>
 </html>
