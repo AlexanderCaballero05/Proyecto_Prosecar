@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+  <h1> BIENVENIDOS A TODOS :D</h1>
+  <h2> espero esten bien uwu</h2>
+  <h2> sino ni modo xd</h2>
+
+</body>
+</html>
